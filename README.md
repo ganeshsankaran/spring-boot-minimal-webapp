@@ -6,6 +6,8 @@ This code started with the code available at this tutorial, as of 2019-09-16, 5p
 
 * Contributor: Ganesh Sankaran (ganeshsankaran)
 
+* Web App: https://cs56-f19-ganeshsankaran-lab02.herokuapp.com/
+
 * GitHub Repo: https://github.com/ganeshsankaran/spring-boot-minimal-webapp.git
 
 * Tutorial: <https://spring.io/guides/gs/spring-boot/>
